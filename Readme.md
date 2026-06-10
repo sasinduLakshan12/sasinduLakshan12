@@ -21,10 +21,6 @@
 - Software Development
 - Web Development
 - Artificial Intelligence
-- Machine Learning
-- Data Science
-- Data Analytics
-
 🚀 Currently building full-stack applications using the MERN Stack.
 
 🌱 Currently learning:
@@ -35,17 +31,10 @@
 - MongoDB
 - Java
 - .NET
-- Python
 - Networking
 
 🤖 Interested in AI-powered solutions and innovative software projects.
 
-🛠️ Built a Python Text Editor Application to strengthen skills in:
-
-- GUI Development
-- File Handling
-- Problem Solving
-- Debugging
 
 📚 Always learning, building, and improving.
 
