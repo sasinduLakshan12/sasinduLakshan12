@@ -170,14 +170,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sasinduLakshan12&theme=tokyonight&no-frame=true&no-bg=true"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
