@@ -21,8 +21,6 @@
 - Software Development
 - Web Development
 - Artificial Intelligence
-- Machine Learning
-- Data Science
 - Data Analytics
 
 🚀 Currently building full-stack applications using the MERN Stack.
